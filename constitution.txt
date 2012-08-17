@@ -1,4 +1,4 @@
-PREAMBULE
+﻿PREAMBULE
 Le peuple français proclame solennellement son attachement aux Droits de l'homme et aux principes de la souveraineté nationale tels qu'ils ont été définis par la Déclaration de 1789, confirmée et complétée par le préambule de la Constitution de 1946.
 En vertu de ces principes et de celui de la libre détermination des peuples, la République offre aux territoires d'Outre-Mer qui manifestent la volonté d'y adhérer des institutions nouvelles fondées sur l'idéal commun de liberté, d'égalité et de fraternité et conçues en vue de leur évolution démocratique.
 ———
@@ -315,7 +315,7 @@ Le Conseil Constitutionnel veille à la régularité des opérations de référe
 
 Article 61.
 Les lois organiques, avant leur promulgation, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil Constitutionnel qui se prononce sur leur conformité à la Constitution.
-Aux mêmes fins, les lois peuvent être déférées au Conseil Constitutionnel, avant leur promulgation, par le Président de la République, le Premier Ministre ou le Président de l'une ou l'autre assemblée.
+Aux mêmes fins, les lois peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le Président de la République, le Premier ministre, le président de l'Assemblée nationale, le président du Sénat ou soixante députés ou soixante sénateurs.
 Dans les cas prévus aux deux alinéas précédents, le Conseil Constitutionnel doit statuer dans le délai d'un mois. Toutefois, à la demande du Gouvernement, s'il y a urgence, ce délai est ramené à huit jours.
 Dans ces mêmes cas, la saisine du Conseil Constitutionnel suspend le délai de promulgation.
 
