@@ -8,6 +8,14 @@ Le Gouvernement de la République, conformément à la loi constitutionnelle du 
 
 
 
+Article PREAMBULE
+
+Modifié par Loi constitutionnelle n°2005-205 du 1 mars 2005 - art. 1
+Le Peuple français proclame solennellement son attachement aux Droits de l’Homme et aux principes de la souveraineté nationale tels qu’ils sont définis par la Déclaration de 1789, confirmée et complétée par le préambule de la Constitution de 1946, ainsi qu’aux droits et devoirs définis dans la Charte de l’environnement de 2004.
+
+En vertu de ces principes et de celui de la libre détermination des peuples, la République offre aux territoires d’outre-mer qui manifestent la volonté d’y adhérer des institutions nouvelles fondées sur l’idéal commun de liberté, d’égalité et de fraternité et conçues en vue de leur évolution démocratique.
+
+
 Titre premier : De la souveraineté
 
 
@@ -414,6 +422,14 @@ Article 59
 
 
 Le Conseil constitutionnel statue, en cas de contestation, sur la régularité de l’élection des députés et des sénateurs.
+
+
+
+Article 60
+
+Modifié par Loi constitutionnelle n°2005-204 du 1 mars 2005 - art. 2
+
+Le Conseil constitutionnel veille à la régularité des opérations de référendum prévues aux articles 11 et 89 et au titre XV. Il en proclame les résultats.
 
 
 
